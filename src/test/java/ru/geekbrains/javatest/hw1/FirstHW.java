@@ -1,6 +1,6 @@
 package ru.geekbrains.javatest.hw1;
 
-public class FirstHomework {
+public class FirstHW {
     public static void main(String[] args) {
         printThreeWords();
         checkSumSign();
