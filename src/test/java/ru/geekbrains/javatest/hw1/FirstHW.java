@@ -1,7 +1,4 @@
 package ru.geekbrains.javatest.hw1;
-// Created by: Pavel
-/* My first homework, this is really difficult/ I tried to do it many times
- */
 
 public class FirstHW {
     public static void main(String[] args) {
