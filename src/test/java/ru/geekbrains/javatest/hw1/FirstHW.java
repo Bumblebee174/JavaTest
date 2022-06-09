@@ -1,8 +1,5 @@
 package ru.geekbrains.javatest.hw1;
 
-/* My first homework, this is really difficult/ I tried to do it many times
- */
-
 public class FirstHW {
     public static void main(String[] args) {
         printThreeWords();
