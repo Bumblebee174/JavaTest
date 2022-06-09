@@ -17,23 +17,23 @@ public class FirstHW {
     public static void checkSumSign() {
         int a=1,b=2,sum=a+b;
         if (sum>=0) {
-            System.out.println("Сумма положительная");
+            System.out.println(" Sum is positive");
         }
         if (sum<0) {
-            System.out.println("Сумма отрицательная");
+            System.out.println(" Sum is negative");
         }
     }
 
     public static void printColor() {
         int value=100;
         if (value<=0) {
-            System.out.println("Красный");
+            System.out.println(" Red");
         }
         if (value>0 && value<=100) {
-            System.out.println("Желтый");
+            System.out.println(" Yellow");
         }
         if (value>100) {
-            System.out.println("Зеленый");
+            System.out.println(" Green");
         }
     }
 
