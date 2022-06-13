@@ -106,6 +106,8 @@ public class FifthHW {
     }
 
     private static class Employee {
+        public static Employee getInstance() {
+        }
 
     }
 }
