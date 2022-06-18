@@ -70,7 +70,7 @@ public class FifthHW {
         this.age = age;
     }
 
-    public static <Employee> void main(String[] args) {
+    public static void main(String[] args) {
         Employee[] employeeArray = new Employee[5];
         employeeArray[0] = new Employee("Ivanov Ivan", "Java Developer", "java1@mail.ru", "89279111", 37000, 45);
         employeeArray[1] = new Employee("Petrov Petr", "Teamlead", "teamdlead@mail.ru", "89279222", 39000, 44);
@@ -105,9 +105,5 @@ public class FifthHW {
         }
     }
 
-    private static class Employee {
-        public static Employee getInstance() {
-        }
 
-    }
 }
