@@ -101,6 +101,7 @@ public class SeventhHW {
             this.appetite = appetite;
             this.satietyTime = satietyTime;
             this.satiety = 0;
+
         }
 
         void eat(Plate p) {
